@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Clima
 //
-//  Created by Angela Yu on 04/09/2015.
+//  Created by Adryan Yudhatrisna on 08/18/2018.
 //  Copyright (c) 2015 London App Brewery. All rights reserved.
 //
 
